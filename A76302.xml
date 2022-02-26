@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The beauty of Godly government in a church reformed or a platforme of government consonant to the word of truth, and the purest reformed churches. Shewing also, the great good that comes thereby, the great evils that it freeth us from. With the two maine objections answered, which are objected by some of the laitie, and some of the clergie. Whereunto is added. A short parrallell betweene the presbyterian and prelatian government. Published for such as are not well acquainted with it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76302</idno>
+            <idno type="STC">Wing B1640</idno>
+            <idno type="STC">Thomason E205_5</idno>
+            <idno type="STC">Thomason E132_34</idno>
+            <idno type="STC">ESTC R212609</idno>
+            <idno type="EEBO-CITATION">99871213</idno>
+            <idno type="PROQUEST">99871213</idno>
+            <idno type="VID">157700</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76302)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157700)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[34], 36:E205[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The beauty of Godly government in a church reformed or a platforme of government consonant to the word of truth, and the purest reformed churches. Shewing also, the great good that comes thereby, the great evils that it freeth us from. With the two maine objections answered, which are objected by some of the laitie, and some of the clergie. Whereunto is added. A short parrallell betweene the presbyterian and prelatian government. Published for such as are not well acquainted with it.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, Anno Dom. 1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157700:1" rendition="simple:additions"/>
+            <p>THE BEAVTY OF GODLY GOVERNMENT IN A CHVRCH RE<g ref="char:EOLhyphen"/>FORMED: <hi>OR A</hi> Platforme of Government Conſonant to the Word of Truth, and the pureſt reformed CHVRCHES.</p>
+            <p>Shewing alſo, <hi>The great good that comes thereby, the great evils that it freeth us from.</hi>
+            </p>
+            <p>WITH <hi>The two maine Objections anſwered, which are</hi> Objected by ſome of the Laitie, and ſome of the Clergie.</p>
+            <p>Whereunto is added.</p>
+            <p>A ſhort Parrallell betweene the <hi>Presbyterian</hi> and <hi>Prelatian</hi> Government.</p>
+            <p>Publiſhed for ſuch as are not well acquainted with it.</p>
+            <p>Printed, Anno Dom. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157700:2"/>
+            <pb n="1" facs="tcp:157700:2"/>
+            <head>THE BEAVTY OF CHRISTS Government in a Church reformed.</head>
+            <div type="part">
+               <head>In a Pariſh</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Ere it muſt begin, according to the order in holy Writ; the firſt Churches being Pa<g ref="char:EOLhyphen"/>rochiall: ſpeciall care muſt be had, that pariſhes have in them the ordinances of Chriſt.</p>
+               <p>That there be an able Paſtor, ſet over the people in every Congregation, for teaching and ruling them.</p>
+               <p>That there be with him aſſiſtants in go<g ref="char:EOLhyphen"/>verning, called Elders, with us Church-wardens, which are in their roome.</p>
+               <p>Theſe muſt be men of the beſt quality among them, men of underſtanding, lovers of Religion, and of a godly, honeſt, and peaceable converſation.</p>
+               <p>They are to be choſen with the peoples conſent, and admitted ſolemnly with
+<pb n="4" facs="tcp:157700:3"/>
+prayer, in the face of the whole Congre<g ref="char:EOLhyphen"/>gation, and an exhortation faithfully to diſcharge their duties, which they muſt promiſe to performe, God aſſiſting them.</p>
+               <p>The number to be moe or fewer, as the pariſh is greater or leſſer.</p>
+               <p>The meeting of theſe to be weekely, if it may be, at a ſet time and place; for con<g ref="char:EOLhyphen"/>veniency, in the Church, after divine ſer<g ref="char:EOLhyphen"/>vice is ended in the afternoone, or in the week-day when there is a ſermon.</p>
+            </div>
+            <div type="part">
+               <head>The end thereof.</head>
+               <p>To looke to all the pariſhioners concer<g ref="char:EOLhyphen"/>ning their religion and exerciſe thereof, publikely and privately, to ſee to their ho<g ref="char:EOLhyphen"/>neſt behaviour, and peaceable demeanour one towards another, at home and abroad.</p>
+               <p>To receive complaints againſt any de<g ref="char:EOLhyphen"/>linquents, and to proceed againſt them to admonition, to ſuſpenſion from the holy Communion, according to the quality of the offence, and as the offender ſhal deſerve without partiality. To excommunicate a<g ref="char:EOLhyphen"/>ny is very rare, and not without the wiſe advice of the Presbytery.</p>
+               <p>Laſtly, the manner of proceeding, to be after the rule of Gods word, and according to the godly Eccleſiaſticall Lawes pre<g ref="char:EOLhyphen"/>ſcribed
+<pb n="5" facs="tcp:157700:3"/>
+them to follow, agreeable to the Word.</p>
+               <p>To this meeting come the Over-ſeers of the poore, called Deacons: They are to be choſen as the Elders are, men of honeſty, faithfull and godly.</p>
+               <p>Their office is to take care of the poore, faithfully to diſtribute the collections, and wiſely, according to every ones neceſſity. To viſit the ſick, and to be able to examine them in the grounds of Religion, inſtruct<g ref="char:EOLhyphen"/>ing the ignorant, and comforting them that want conſolation; as elſewhere they doe.</p>
+            </div>
+            <div type="part">
+               <head>Motives to imbrace this Parochiall go<g ref="char:EOLhyphen"/>vernment, which Epiſcopall govern<g ref="char:EOLhyphen"/>ment keepes us from.</head>
+               <list>
+                  <item>From the good which comes thereby.
+<list>
+                        <item>1. Hereby Religion and vertue with much care, put in practice: peace and uni<g ref="char:EOLhyphen"/>ty alſo will be preferred.</item>
+                        <item>2 Hereby will religious perſons, religi<g ref="char:EOLhyphen"/>ous meetings, and pious exerciſes be had in eſteeme, and the vertuous regarded; who will be watchfull one over another, being knit together in an holy communion, much with us wanting.</item>
+                        <item>3 Hereby will the vicious, the prophane
+<pb n="6" facs="tcp:157700:4"/>
+and ſcandalous be ſuppreſſed; ſinne will not be ſuffered to reigne, nor be ſo rife as with us it is.</item>
+                        <item>4 Hereby, through weekly meeting to ſuppreſſe vice, and to maintaine vertue, the Paſtors themſelves, the Elders and Dea<g ref="char:EOLhyphen"/>cons ſhall become better acquainted with the wayes of vertue, and grow more in ha<g ref="char:EOLhyphen"/>tred with vice: know alſo better the rule of ordering of Chriſts people, wiſely and religiouſly, whereby his glory may more ſhine among them, and they made happy inſtruments thereof.</item>
+                     </list>
+                  </item>
+                  <item>II. From the great evils which we are freed from: but Epiſcopacy keepes us under.
+<list>
+                        <item>1 Hereby ſhall all be freed from the heavie yoake, and authority of their Eccle<g ref="char:EOLhyphen"/>ſiaſticall Courts, and their corruptions, which God and men of all ſorts cry out a<g ref="char:EOLhyphen"/>gainſt.</item>
+                        <item>2 From the great expences of money, in journying ſometimes many miles, in ly<g ref="char:EOLhyphen"/>ing there at coſt, and disburſing the charges impoſed, and called for by the Court; be<g ref="char:EOLhyphen"/>ſides often appearing, long delayes, and loſſe of much time.</item>
+                        <item>3 From the wicked and inforcing oath <hi>ex officio;</hi> and from the many thouſands of oathes which Church-wardens take;
+<pb n="7" facs="tcp:157700:4"/>
+and from the oath of purgation inforced upon many to cleare themſelves of a ſuſ<g ref="char:EOLhyphen"/>pected crime: in taking of which oathes, many forſweare themſelves, and procure the Lords curſe againſt them, and the whole Land.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <p>To theſe Motives, adde:
+<list>
+                     <item>1 That ſuch a government in a Paro<g ref="char:EOLhyphen"/>chiall Church of Chriſt, is approved by our neighbour Kingdome with good ſuc<g ref="char:EOLhyphen"/>ceſſe, to the honour of Chriſt, and the peo<g ref="char:EOLhyphen"/>ples reformation.</item>
+                     <item>2 That in the Apoſtles dayes were firſt founded parochiall Churches, and in them the Elders and Deacons ordained, and all Chriſts ordinances exerciſed in them; and therefore to be admitted of us.</item>
+                     <item>3 That the robbing of parochiall Con<g ref="char:EOLhyphen"/>gregations of theſe holy ordinances, is the very ground of their ſpirituall miſery; from which, if they ſeeke not to be freed, they are moſt unhappy, and can never at<g ref="char:EOLhyphen"/>taine to that ſpirituall condition which is ſo hartily wiſhed for, and deſired, for their ſoules ſafety.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>Objections anſwered.</head>
+               <p>Some of the Laitie pleaſe to ſay, that this is to make every Miniſter a pope in his pa<g ref="char:EOLhyphen"/>riſh.</p>
+               <p>
+                  <pb n="8" facs="tcp:157700:5"/>
+                  <label>Anſwer.</label>
+That a Paſtor is to bee obeyed of his people, will not be denied, for the word commands it, <hi>Heb.</hi> 13.7.17. But to Lord it over Gods heritage he may not, 1 <hi>Pet.</hi> 5.3. Nor doth this make him a Pope in his Pariſh, for the Elders are joyned with him in governmet, ſo as without them hee can doe nothing; hee is alſo ſubject to the Presbytery, and muſt bee kept within his limits, preſcribed him.</p>
+            </div>
+            <div type="part">
+               <div n="1" type="section">
+                  <head>Some of the Clergy object, and ſay that theſe Elders doe overtop their Miniſters and make them their vaſſalls.</head>
+                  <p>
+                     <label>
+                        <hi>Anſwer.</hi> I.</label>
+                     <list>
+                        <item>One of theſe objections muſt be falſe, if not both, for they oppoſe one another.</item>
+                        <item>2. Such Miniſter as thus object may be ſatisfied by the practiſe of the Elders, a<g ref="char:EOLhyphen"/>mong whom this government is exerciſed. Doe they ever heare any of the faithfull Miniſters make ſuch a complaint againſt their Elders?</item>
+                        <item>3. Theſe Elders are but Aſſiſtants to their paſtor and only ſecond them, not go<g ref="char:EOLhyphen"/>ing before them in the ſeſſion, the Paſtor is moderator in the whole action beginning with prayer and ſo ends it; when hee
+<pb n="7" facs="tcp:157700:5"/>
+ſpeakes to them, they ſhew him very reve<g ref="char:EOLhyphen"/>rend reſpect. Yea the greateſt Noblemen in the land, in Church-meetings, doe not over-ſway the meaneſt and pooreſt Mini<g ref="char:EOLhyphen"/>ſter, for if he doe hee ſhall bee called to an account before the generall aſſembly, where if hee appeare in any ill cauſe, hee will bee made more aſhamed, then before any judicature in the kingdome.</item>
+                        <item>4. Why ſhould any bee offended at thoſe Elders, and ſo conceit amiſſe againſt them, when wee beare the commanding power of lay Chancellors, lay Commiſ<g ref="char:EOLhyphen"/>ſaries, with their Regiſters, who rule ma<g ref="char:EOLhyphen"/>ſterly over us, making us to be unconſcio<g ref="char:EOLhyphen"/>nably ſlaviſh executioners of their often unjuſt commands.</item>
+                        <item>Laſtly, conſider that from hence juſt appeales may bee made to the Presbytery.</item>
+                     </list>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>II. <hi>In every diviſion or circuit ſutable to our Deanry.</hi>
+                  </head>
+                  <p>That there be a claſſicall meeting called elſewhere a Presbytery. This conſiſts of all the Miniſters of Pariſhes within the Deanry, or ſuch a circuit thereof as may conveniently meet, to which are ſent by conſent out of every Pariſh one of their Elders. This meeting is to be once a fort<g ref="char:EOLhyphen"/>night.
+<pb n="8" facs="tcp:157700:6"/>
+In this from among the Paſtors muſt the graveſt, the wiſeſt, the beſt eſtee<g ref="char:EOLhyphen"/>med for life and godlineſſe be choſen mo<g ref="char:EOLhyphen"/>derator, for the time of the ſitting and meeting. Hee is to beginne with prayer and end ſo after a Pſalme and a Sermon; here Miniſters are to ſhew their gifts, and how they profit, and goe on in the Miniſtry. And ſuch as intend the Miniſte<g ref="char:EOLhyphen"/>ry are here to be tryed, and if fit, to be or<g ref="char:EOLhyphen"/>dained, if a place bee void: theſe looke into parochial Seſſions, within their circuit, that Paſtors, Elders, and people behave themſelves as they ought: Here the power of juriſdiction is uſed, the doctrine and lives of Miniſters are enquired into, and according as they finde, they encourage the faithfull diſpenſers againſt others, they proceed to admonition, ſuſpenſion, and deprivation, as they ſhall ſee juſt cauſe ſo to doe. All other ſorts of perſons of what quality ſoever, which ſhall be diſobedi<g ref="char:EOLhyphen"/>ent to their owne Paſtors and Elders, pro<g ref="char:EOLhyphen"/>ceeding in their parochiall meetings law<g ref="char:EOLhyphen"/>fully, are with great authority cenſured.</p>
+                  <p>By this wee ſee how the parochiall go<g ref="char:EOLhyphen"/>vernement is upheld, and yet kept within bounds, Chriſts Doctrine and worſhip kept pure, good Miniſters honoured, and the reſt eitheir reformed, or caſt out.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="9" facs="tcp:157700:6"/>
+                  <head>III. <hi>In every County or ſhire.</hi>
+                  </head>
+                  <p>In this muſt be a Synod, called elſewhere Provinciall.</p>
+                  <p>It conſiſts of the whole Presbyteries within that Shire, or Province, with one El<g ref="char:EOLhyphen"/>der from every Pariſh, men of ranke and quality, Gentlemen, Knights and Barons, for ſuch in ſome places are Elders. The mee<g ref="char:EOLhyphen"/>ting to be every halfe yeare, as our Arch<g ref="char:EOLhyphen"/>deacons viſitations be.</p>
+                  <p>Here being aſſembled, they beginne with praying and preaching, the Sermon being made by the former Moderatour; which ended, a new Moderatour is then choſen, or the ſame againe confirmed.</p>
+                  <p>Theſe meete not to call for Synodals, or paſchall rents, nor to gather procurations, nor to ſweare Church-wardens, to make pre<g ref="char:EOLhyphen"/>ſentments, for theſe aſſemblies ſit not for to gather monies; but this Synod meeteth to make enquiry by the records of every Pres<g ref="char:EOLhyphen"/>byterie into the governing of all the Presby<g ref="char:EOLhyphen"/>teries, and all the Churches under them, and to rectifie what is amiſſe therein.</p>
+                  <p>To ſupply what is wanting, and to cenſure any for faults, crimes &amp; offences committed.</p>
+                  <p>All matters with great diligence, and ſpeed, are here ſo to be expedited, as the time may not bee long, nor the ſtaying to become chargeable and burthenſome, but that the
+<pb n="10" facs="tcp:157700:7"/>
+Paſtors and Elders may returne home in good time, before the Lords day.</p>
+                  <p>Can we be ſo happy as to enjoy ſuch Sy<g ref="char:EOLhyphen"/>nods, wee ſhall be rid of the vaine and very chargeable viſitations of Archdeacons, where Miniſters and people waſtefully lay out yearly ſome thouſands of pounds throughout the whole land.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>IV. <hi>In one whole nation.</hi>
+                  </head>
+                  <p>This is the generall aſſembly of the nation, or nationall meeting.</p>
+                  <p>It conſiſts of Paſtors and Elders from eve<g ref="char:EOLhyphen"/>ry Presbytery, to which have come ſome<g ref="char:EOLhyphen"/>time the Kings Majeſty, or a Commiſſioner for him; as alſo likewiſe the religious and learned Nobles of the land.</p>
+                  <p>This meeting is elſewhere once a yeare, but with us it may fitly be every Parliament time, now appointed to be every third year.</p>
+                  <p>The firſt day of this aſſembly is a day of ſolemne humiliation to prepare them to ſo great and holy a worke, at the end whereof a Miniſter is choſen by the voices of all to be Preſident and Moderator in that aſſem<g ref="char:EOLhyphen"/>bly: who prayeth at every ſitting downe, and when they riſe up for a bleſſing of God upon them.</p>
+                  <p>The power of this is very great; it upholdeth
+<pb n="11" facs="tcp:157700:7"/>
+the authority of the other aſſemblies, maketh laws Eccleſiaſticall agreeing to holy Scripture, for the wel-ordering of all the Churches in ſpirituall mat<g ref="char:EOLhyphen"/>ters, but never intermedleth in matters civill be<g ref="char:EOLhyphen"/>longing to the Magiſtrates, either in judging, or in<g ref="char:EOLhyphen"/>flicting pecuniary, or corporall puniſhment.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Its now among us a great queſtion, Whether is better, the Presbyterian government in Scotland, or the Prelatian government in England, for the Churches ſpirituall welfare?</head>
+               <p>To judge aright herein, theſe conſiderations are propounded to the wiſedome of the wiſe and reli<g ref="char:EOLhyphen"/>gious, who would lay a ſide all partiality in this cauſe of God:
+<list>
+                     <item>1 Whether of them hath the beſt proofe, either for the whole, or for the part, from holy Scrip<g ref="char:EOLhyphen"/>ture: and ſo Gods approbation?</item>
+                     <item>2 Which is agreeing moſt to all the reformed Churches, with which we agree in Doctrine, and ſeparation from the Church of Rome?</item>
+                     <item>3 Whether of theſe is moſt like the governe<g ref="char:EOLhyphen"/>ment of the Church of Rome, under the Pope, that Antichriſt; and apteſt to let in, and fitteſt to keepe out the Ceremonies, the ſuperſtition, and the ido<g ref="char:EOLhyphen"/>latry of that whore of Rome?</item>
+                     <item>4 Whether of them doth tend more to godli<g ref="char:EOLhyphen"/>neſſe then greatneſſe?</item>
+                     <item>
+                        <pb n="12" facs="tcp:157700:8"/>5 Whether of them is the moſt profitable to advance the powerfull practice of religion and vertue, and the ſup<g ref="char:EOLhyphen"/>preſſion of vice, that God may receive glory?</item>
+                  </list>
+               </p>
+               <p>For the better evidencing hereof, let them be compa<g ref="char:EOLhyphen"/>red in theſe few things together.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">The Presbyterian.</cell>
+                        <cell role="label">The Prelatian.</cell>
+                     </row>
+                     <row>
+                        <cell>I. This hath for the tea<g ref="char:EOLhyphen"/>ching Elders, very certaine teſtimony from Scripture, <hi>Tit.</hi> 1.5. and ſtrong probabi<g ref="char:EOLhyphen"/>lity for ruling Elders, 1 <hi>Tim.</hi> 5.17 <hi>Rom.</hi> 12.8. 1 <hi>Cor.</hi> 12.28. And therefore being al<g ref="char:EOLhyphen"/>lowed of God, is fitteſt to advance the power of god<g ref="char:EOLhyphen"/>lineſſe.</cell>
+                        <cell>This hath no probabilitie, much leſſe any certainty of Scripture for Archbiſhops, Di<g ref="char:EOLhyphen"/>oceſan Biſhops, Deanors, Arch<g ref="char:EOLhyphen"/>deacons; for their lay Chaun<g ref="char:EOLhyphen"/>cellours, lay Commiſſaries: and therefore being altogether of man, is not ſo fit, as we finde by experience, to advance the power of godlineſſe.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>II. This ſets up in every pariſh a Seſſion, for the re<g ref="char:EOLhyphen"/>ligious ordering thereof.</cell>
+                        <cell>This depriveth wholly paro<g ref="char:EOLhyphen"/>chiall aſſemblies of ſuch an helpe, for their ſpirituall good, ſubjecting them ſlaviſhly to their moſt corrupt courts.</cell>
+                     </row>
+                     <row>
+                        <cell>III. The order of this is framed ſo, as the parts thereof is ſubordinate one to another; as the Seſſion to the Presbytery; this, to the Provinciall Synod, and this to the Nationall, to further godlineſſe.</cell>
+                        <cell>This is ſo framed as an over<g ref="char:EOLhyphen"/>topping power of ſome, may ſway over all as they liſt, with<g ref="char:EOLhyphen"/>out any ſuch ſubordination, to uphold onely their greatneſſe; as their practiſe proclaime be<g ref="char:EOLhyphen"/>fore the world.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <pb n="13" facs="tcp:157700:8"/>IV. This alloweth no<g ref="char:EOLhyphen"/>thing in and about Gods publike worſhip, but what is warrantable by Scripture.</cell>
+                        <cell>This bringeth in, and appro<g ref="char:EOLhyphen"/>veth of many deviſes of men, corrupting Gods worſhip, with<g ref="char:EOLhyphen"/>out warrant of Scripture.</cell>
+                     </row>
+                     <row>
+                        <cell>V. This ordaineth no Mi<g ref="char:EOLhyphen"/>niſters for money, nor any but ſuch as be apt to teach; nor doth it permit any, which are not ſuch, and do performe their Miniſtery faithfully.</cell>
+                        <cell>This ordaineth for money, and many unapt to teach, yea, and permits thouſands of dumbe Miniſters, which can<g ref="char:EOLhyphen"/>not teach, and lazie Miniſters which will not preach, but ei<g ref="char:EOLhyphen"/>ther ſeldome or never.</cell>
+                     </row>
+                     <row>
+                        <cell>VI. This alloweth no pluraliſts, nor any Nonre<g ref="char:EOLhyphen"/>ſidents, nor foule and ſcan<g ref="char:EOLhyphen"/>dalous Miniſters.</cell>
+                        <cell>This alloweth many hun<g ref="char:EOLhyphen"/>dreds of Pluraliſts and Non<g ref="char:EOLhyphen"/>reſidents, and not a few of evill life; unſufferable in Chriſts Church.</cell>
+                     </row>
+                     <row>
+                        <cell>VII. This upholdeth preaching, countenanceth diligent preachers, and en<g ref="char:EOLhyphen"/>courageth them.</cell>
+                        <cell>This taketh not much care for preaching, never calleth a<g ref="char:EOLhyphen"/>ny to account for negligent preaching: but ſome Prelates ſuppreſſe it, and are vexatious to many faithfull Miniſters.</cell>
+                     </row>
+                     <row>
+                        <cell>VIII. This ſuffers, with<g ref="char:EOLhyphen"/>out jealouſie, the people to meet together, to talke and conferre about what they have heard, and to read good books, to ſing Pſalms, and to pray together.</cell>
+                        <cell>This is ſo jealous, as people are reſtrained from ſuch mee<g ref="char:EOLhyphen"/>tings, being held Conventicles for which they are called to their courts and cenſured.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <pb n="14" facs="tcp:157700:9"/>IX. This carefully pre<g ref="char:EOLhyphen"/>vents errours, and hereſies, Papiſts, and papiſtry, and whatſoever may be trou<g ref="char:EOLhyphen"/>bleſome to the Church.</cell>
+                        <cell>This looketh to nothing but conformity to humane inven<g ref="char:EOLhyphen"/>tions, ſuffering falſe doctrines to be broached, Arminianiſme, Socinianiſm, Popery, &amp; popiſh<g ref="char:EOLhyphen"/>ly affected to increaſe, ſo they conforme men to their cere<g ref="char:EOLhyphen"/>monies.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>If all theſe conſiderations (to which more may bead<g ref="char:EOLhyphen"/>ded) be ſeriouſly pondered, it may eaſily be judged whe<g ref="char:EOLhyphen"/>ther government is the more pleaſing to God, and more profitable to his people for ſpirituall life and ſalvation.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
